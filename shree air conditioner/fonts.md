@@ -1,0 +1,11 @@
+# font style 
+- main branding = `<link href="https://fonts.cdnfonts.com/css/sutherla-romance-sans-serif" rel="stylesheet">`
+---
+- nav bar = `<link href="https://fonts.cdnfonts.com/css/bruno-ace-sc-2" rel="stylesheet">`
+---
+- head = `<link href="https://fonts.cdnfonts.com/css/trotes" rel="stylesheet">`
+---
+- main topic = `<link href="https://fonts.cdnfonts.com/css/ketika" rel="stylesheet">`
+---
+- price = `<link href="https://fonts.cdnfonts.com/css/recharge" rel="stylesheet">`
+---
